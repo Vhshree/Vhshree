@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vhshree
 - 👀 I’m interested in saas defense
 - 🌱 I’m currently learning infosec
-- 💞️ I’m looking to collaborate on cybersecurities
+- 💞️ I’m looking to collaborate WITH cybersecurity researchers
 - 📫 How to reach me linkedin/HARINISHREE.V
 
 <!---
