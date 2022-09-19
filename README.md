@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vhshree
 - 👀 I’m interested in Dataengineering in saas 
-- 🌱 I’m currently learning infosec
-- 💞️ I’m looking to collaborate with Data engineers and cybersecurity researchers
+- 🌱 I’m currently learning airflow
+- 💞️ I’m looking to collaborate with Data engineers and researchers
 - 📫 How to reach me linkedin/HARINISHREE.V
 
 <!---
